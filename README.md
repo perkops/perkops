@@ -4,7 +4,7 @@ Experienced software architect and developer with more than 18 years of experien
 
 - 👨‍💻 Working at [Delegate](https://delegate.dk/)
 - 🧭 Founder of [atc-net](https://github.com/atc-net)
-- 🌱 Currently learning about [semantic-kernel](https://github.com/microsoft/semantic-kernel)
+- 🌱 Currently learning about [semantic-kernel](https://github.com/microsoft/semantic-kernel) and [aspire](https://github.com/dotnet/aspire)
 - 👀 Interested in everything about software and technology related to Microsoft technologies
 - 📜 Certified Azure IoT Developer Specialist (AZ-220)
 - Primarily programming in  
@@ -18,7 +18,7 @@ Experienced software architect and developer with more than 18 years of experien
 * Experienced in integrating and developing real-time microservices via; OpenAPI, REST, gRPC etc.
 * Experienced in Azure Cloud; Functions, CosmosDB, Kubernetes (AKS), Container Registry (ACR), KeyVault, EventGrid, SQL Server, Iot Suite (IotHub, DPS, Iot Edge, Digital Twin), AppService, Monitor, AAD etc.
 * Industrial IoT Experience; Kepware Server, ThingWorx, OPC, OPC UA, MQTT etc.
-* AI, Large Language Models (LLMs), Retrieval Augmented Generation (RAG), Semantic Kernel (SK), Kernel Memory, LangChain, OpenAI, Azure OpenAI etc.
+* AI, Large Language Models (LLMs), Retrieval Augmented Generation (RAG), Semantic Kernel (SK), Kernel Memory, OpenAI, Azure OpenAI etc.
 * DevSecOps Automation (CI/CD pipelines in Azure DevOps (YAML) & Github Actions)
 * Provisioning cloud infrastructure via Infrastructure as Code concepts using e.g. Bicep, Azure CLI
 * Web-Technologies: SignalR, ASP.NET (API, Razor, Blazor, Blazor WASM), Swagger, HTML, XML, XSLT etc.
